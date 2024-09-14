@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MuhammadAsad56](https://github.com/MuhammadAsad56)
-
 - 💬 Ask me about **javascript and react**
 
 - 📫 How to reach me **ar535363@gmail.com**
