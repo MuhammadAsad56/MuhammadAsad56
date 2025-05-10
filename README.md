@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadasad56&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadasad56" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 💻 Building real-world projects to sharpen my Full Stack skills
 
 - 💬 Ask me about **javascript and react**
 
